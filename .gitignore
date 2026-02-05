@@ -11,3 +11,5 @@ result-*
 .vscode/
 *.swp
 *.swo
+
+.pre-commit-config.yaml
